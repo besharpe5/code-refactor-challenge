@@ -10,9 +10,9 @@ The goal for this challenge was to refactor existing code for a website in order
 ***
 
 ## Screenshots
-! [Screenshot-1] (assets/images/Screen Shot 2021-11-27 at 8.29.55 PM.png)
-! [Screenshot-2] (assets/images/Screen Shot 2021-11-27 at 8.30.16 PM.png)
-! [Screenshot-3] (assets/images/Screen Shot 2021-11-27 at 8.30.35 PM.png)
+! [Screenshot-1] (./assets/images/Screen Shot 2021-11-27 at 8.29.55 PM.png)
+! [Screenshot-2] (./assets/images/Screen Shot 2021-11-27 at 8.30.16 PM.png)
+! [Screenshot-3] (./assets/images/Screen Shot 2021-11-27 at 8.30.35 PM.png)
 
 ***
 
