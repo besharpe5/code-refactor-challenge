@@ -10,9 +10,9 @@ The goal for this challenge was to refactor existing code for a website in order
 ***
 
 ## Screenshots
-![Screenshot-1] (/assets/images/Screen Shot 2021-11-27 at 8.29.55 PM.png)
-![Screenshot-2] (/assets/images/Screen Shot 2021-11-27 at 8.30.16 PM.png)
-![Screenshot-3] (/assets/images/Screen Shot 2021-11-27 at 8.30.35 PM.png)
+![Screenshot-1] (https://github.com/besharpe5/code-refactor-challenge/blob/5197a35e55baa60c928cc0b0bbdae8a21785cb4c/assets/images/Screen%20Shot%202021-11-27%20at%208.29.55%20PM.png)
+![Screenshot-2] (https://github.com/besharpe5/code-refactor-challenge/blob/5197a35e55baa60c928cc0b0bbdae8a21785cb4c/assets/images/Screen%20Shot%202021-11-27%20at%208.30.16%20PM.png)
+![Screenshot-3] (https://github.com/besharpe5/code-refactor-challenge/blob/5197a35e55baa60c928cc0b0bbdae8a21785cb4c/assets/images/Screen%20Shot%202021-11-27%20at%208.30.35%20PM.png)
 
 
 ***
